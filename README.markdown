@@ -63,7 +63,6 @@ A better solution is to attach the pattern with a class selector. Use `$.h5Valid
 The included patterns available are:
  - email
  - phone
- - email
  - url
  - number
  - dateISO
